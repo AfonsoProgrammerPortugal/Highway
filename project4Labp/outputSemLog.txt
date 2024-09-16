@@ -1,0 +1,222 @@
+---------- Highway before starting the simulation
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 0
+Current queue 0
+<<     active
+<<     active
+<<     active
+Elapsed time 0
+Total waiting time 0
+Number of vehicles processed 0
+Total tolls collected 0.00
+
+----------
+
+---------- After time 100
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 17
+Current queue 5
+<(7,170:115), (25,180:180), (60,20:20)<     active
+<(10,230:198), (25,100:100), (70,170:170)<     active
+<(35,200:179), (75,30:30), (80,45:45)<     active
+<(30,101:87), (40,100:100), (90,100:100)<     active
+<(45,200:144), (50,100:100), (65,30:30)<     active
+<(95,120:114), (100,100:100)<     active
+Elapsed time 100
+Total waiting time 96
+Number of vehicles processed 11
+Total tolls collected 9.95
+Average number of vehicles per queue 2.83
+----------
+
+---------- After time 200
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 17
+Current queue 6
+<(7,170:15), (25,180:180), (60,20:20)<     active
+<(10,230:98), (25,100:100), (70,170:170)<     active
+<(35,200:79), (75,30:30), (80,45:45)<     active
+<(40,100:87), (90,100:100)<     active
+<(45,200:44), (50,100:100), (65,30:30)<     active
+<(95,120:14), (100,100:100), (110,90:90)<     active
+<<     active
+Elapsed time 200
+Total waiting time 153
+Number of vehicles processed 13
+Total tolls collected 11.65
+Average number of vehicles per queue 2.43
+----------
+
+---------- After time 300
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 11
+Current queue 6
+<(25,180:95), (60,20:20)<     active
+<(25,100:98), (70,170:170)<     active
+<(75,30:9), (80,45:45)<     active
+<(90,100:87)<     active
+<(50,100:44), (65,30:30)<     active
+<(100,100:14), (110,90:90)<     active
+<<     active
+Elapsed time 300
+Total waiting time 444
+Number of vehicles processed 19
+Total tolls collected 17.20
+Average number of vehicles per queue 1.57
+----------
+
+---------- After time 400
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 3
+Current queue 6
+<(60,20:15)<     active
+<(70,170:168)<     active
+<< not active
+<< not active
+<< not active
+<(110,90:4)<     active
+<<     active
+Elapsed time 400
+Total waiting time 2132
+Number of vehicles processed 27
+Total tolls collected 21.05
+Average number of vehicles per queue 0.75
+----------
+
+---------- After time 500
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 1
+Current queue 6
+<<     active
+<(70,170:68)<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 500
+Total waiting time 2673
+Number of vehicles processed 29
+Total tolls collected 21.85
+Average number of vehicles per queue 0.33
+----------
+
+---------- After time 600
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 0
+Current queue 6
+<<     active
+<<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 600
+Total waiting time 3002
+Number of vehicles processed 30
+Total tolls collected 22.00
+Average number of vehicles per queue 0.00
+----------
+
+---------- After time 700
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 0
+Current queue 6
+<<     active
+<<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 700
+Total waiting time 3002
+Number of vehicles processed 30
+Total tolls collected 22.00
+Average number of vehicles per queue 0.00
+----------
+
+---------- After time 800
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 1
+Current queue 6
+<(800,230:229)<     active
+<<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 800
+Total waiting time 3002
+Number of vehicles processed 30
+Total tolls collected 22.00
+Average number of vehicles per queue 0.33
+----------
+
+---------- After time 900
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 2
+Current queue 6
+<(800,230:129)<     active
+<(900,180:179)<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 900
+Total waiting time 3002
+Number of vehicles processed 30
+Total tolls collected 22.00
+Average number of vehicles per queue 0.67
+----------
+
+---------- After time 1000
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 2
+Current queue 6
+<(800,230:29)<     active
+<(900,180:79)<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 1000
+Total waiting time 3002
+Number of vehicles processed 32
+Total tolls collected 24.70
+Average number of vehicles per queue 0.67
+----------
+
+---------- Highway after finishing the simulation
+Minimum number of activated queues 3
+Maximum number of vehicles per queue 3
+Total number of elements in queue system 1
+Current queue 6
+<<     active
+<(900,180:29)<     active
+<< not active
+<< not active
+<< not active
+<< not active
+<<     active
+Elapsed time 1050
+Total waiting time 3002
+Number of vehicles processed 33
+Total tolls collected 25.95
+Average waiting time in queue 90.97
+----------
