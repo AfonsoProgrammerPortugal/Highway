@@ -27,3 +27,4 @@ portagens.
 # O que aprendi
 - Conhecimento sobre Queue
 - Utilização de ArrayQueue
+- Implementação do QueueSystem
